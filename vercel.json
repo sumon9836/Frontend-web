@@ -1,7 +1,7 @@
 {
   "version": 2,
   "env": {
-    "BACKEND_URL": "http://tramway.proxy.rlwy.net:12332"
+    "BACKEND_URL": "http://interchange.proxy.rlwy.net:24084"
   },
   "functions": {
     "app/api/**/*.ts": {
